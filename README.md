@@ -5,3 +5,4 @@ In this project, I learned the flex feature, which is used to align the elements
 
 photos -> https://pixabay.com/
 
+live:https://yusufdmrc.github.io/landing-page/
